@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "10880612751",
+    "firebase_url": "https://password-manager-c6e22-default-rtdb.firebaseio.com",
+    "project_id": "password-manager-c6e22",
+    "storage_bucket": "password-manager-c6e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10880612751:android:058d5f4d3ab57f54c5f3fa",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10880612751-gcr62iqk2jt6s7au6oh6elak5gfid9mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzih4WIi-FscpBGAyfwkzz2SxgPYpEuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10880612751-gcr62iqk2jt6s7au6oh6elak5gfid9mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10880612751:android:a211d3aafa3e6870c5f3fa",
+        "android_client_info": {
+          "package_name": "com.example.passwordmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10880612751-gcr62iqk2jt6s7au6oh6elak5gfid9mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzih4WIi-FscpBGAyfwkzz2SxgPYpEuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10880612751-gcr62iqk2jt6s7au6oh6elak5gfid9mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
